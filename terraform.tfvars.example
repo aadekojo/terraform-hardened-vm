@@ -1,0 +1,2 @@
+allowed_ssh_cidr = "203.0.113.42/32" #edit your IP here and (delete this comment)
+admin_username = username #whatever username you want (delete this comment)
